@@ -18,4 +18,4 @@ Go to chrome://extensions
 
 Turn on “Developer mode” in the top-right corner
 
-Click “Load unpacked” and select the Raw-Git-Extension folder.
+Click “Load unpacked” and select the Raw-Git-Extension-main in the Raw-Git-Extension-main folder.
