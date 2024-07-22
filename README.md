@@ -20,5 +20,5 @@ Turn on “Developer mode” in the top-right corner
 
 Click “Load unpacked” and select the Raw-Git-Extension-main in the Raw-Git-Extension-main folder.
 <br><br>
-# Srceen Shot
+# Screen Shot
 ![image](https://github.com/Tetr5/Raw-Git-Extension/assets/166596134/2d3cd368-e972-481a-9723-1278f5eb7426)
